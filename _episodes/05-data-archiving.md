@@ -1,5 +1,5 @@
 ---
-title: "Data Archiving"
+title: "4. Publish and preserve"
 teaching: 10
 exercises: 15
 questions:
@@ -46,10 +46,10 @@ Examples of data repositories:
 
 | Data Repository | About |
 |---|---|
-|[DataverseNL](https://dataverse.nl/dataverse) <img src="https://dataverse.nl/assets/logos/DataverseNL-logo.png" alt="dataverse" style="width:30px;height:15px;"> | DataverseNL is a community-specific repository that focuses on Dutch universities and research centers.|
-|[4TU Data](https://data.4tu.nl/) <img src="https://data.4tu.nl/fileadmin/Tmpl/Images/4TU-logo.png" alt="4tu" style="width:30px;height:15px;"> | 4TU Data is a community repository that was originally created by three technical universities in the Netherlands.|
-|[PANGEA](https://pangaea.de/) <img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/04-1.png" alt="pangea" style="width:30px;height:15px;"> | PANGEA is a community-specific repository that focuses on Earth & Environmental Science.| 
-|[FigShare](https://figshare.com/) <img src="https://websitev3-p-eu.figstatic.com/assets-v3/2fa5d16c00fb00c8f5413b230e05e1c55e745c36/static/media/defaultLogo.30adffde.png" alt="figshare" style="width:30px;height:15px;"> | FigShare is an open generic data repository for general purposes; it can store data and other digital objects.| 
+|[DataverseNL](https://dataverse.nl/dataverse) | DataverseNL is a community-specific repository that focuses on Dutch universities and research centers.|
+|[4TU Data](https://data.4tu.nl/) | 4TU Data is a community repository that was originally created by three technical universities in the Netherlands.|
+|[PANGEA](https://pangaea.de/) | PANGEA is a community-specific repository that focuses on Earth & Environmental Science.| 
+|[FigShare](https://figshare.com/) | FigShare is an open generic data repository for general purposes; it can store data and other digital objects.| 
 
 Just like FigShare, many data repositories are for general use. They provide a low entry barrier to making data **Findable**, addressing FM-F1A (Identifier Uniqueness) and FM-F3 (Resource Identifier in Metadata). 
 
@@ -120,7 +120,9 @@ A DOI has three main parts:
 - Prefix which is unique to the registrant or member
 - Suffix, a unique identifier assigned locally by the registrant to an object
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/04-2.jpeg" alt="Anatomy of a DOI" style="width:100px;height:80px;">
+<br>
+<img src="https://authorcarpentry.github.io/CODATA-RDA-Trieste-2016/Figure1.jpg" alt="Digital Object Anatomy" width=800 height=400>
+<br>
 
 In the example above, the prefix is used by the Australian National Data Service (ANDS), now called the Australia Research Data Commons (ARDC), and the suffix is a unique identifier for an object at Griffith University. DataCite provides DOI [display guidance](https://support.datacite.org/docs/datacite-doi-display-guidelines) so that they are easy to recognize and use, for both humans and machines.
 
