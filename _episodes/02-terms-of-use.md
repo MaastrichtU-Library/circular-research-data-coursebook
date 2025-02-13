@@ -1,5 +1,5 @@
 ---
-title: "Data Terms of Use"
+title: "1. Set up your own terms"
 teaching: 10
 exercises: 15
 questions:
@@ -31,17 +31,26 @@ keypoints:
 
 An example is:
 <br>
-<img title="terms" src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/02-1.png" alt="Terms of Use">
-**The World Bank - Terms of Use for Datasets**   → [LINK TO EXAMPLE](https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets)  
+<img title="terms" src="../fig/FAIRcoursebook-image1_1.png" alt="Terms of Use" style="width: 33%; float: left; margin-right: 10px;">
+<br>
 
-Looking at the example, we can identify general elements in the **Data Terms of Use** statement. For instance, a broad description of the data is referred to, but also under what type of license the user is allowed to reuse. 
+**The World Bank - Terms of Use for Datasets**   → [LINK TO EXAMPLE](https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets)   
 
-Sometimes as part of our research, we use commercial databases. We should be careful always to read the conditions for using it for research purposes. 
+Looking at the example, we can identify general elements in the **Data Terms of Use** statement. For instance, a broad description of the data is referred to, but also under what type of license the user is allowed to reuse.  
+
+Sometimes as part of our research, we use commercial databases. We should be careful always to read the conditions for using it for research purposes.  
 An example is:  
+
+<br>
+<img title="terms2" src="../fig/FAIRcoursebook-image1_2.png" alt="Terms of Use NUMBEO" style="width: 33%; float: left; margin-right: 10px;">
+<br>
+
 **Terms of Use - Numbeo.com**   → [LINK TO EXAMPLE](https://www.numbeo.com/common/terms_of_use.jsp)    
 We can see that clause 3 of Licensing of content requests work attribution.
 
-<img title="terms2" src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/02-4.png" alt="Terms of Use NUMBEO">
+<br>
+
+
 
 ### 2 What must a Data Terms of Use statement contain?
 
@@ -99,12 +108,12 @@ Any text editor software would do the trick, such as [Notepad++](https://notepad
 
 The **Data Terms of Use** needs to be in the same root folder as the data source. When it comes to a database - like the World Bank example - it should be findable on the project's website. Moreover, if there is no official project website, you should include it in `.md` format in a Github repository like the following example: → [LINK TO EXAMPLE](https://github.com/MaastrichtU-IDS/clean-technologies-nlp/blob/master/data/README.md)  
 
-<img title="terms3" src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/02-2.png" alt="Terms of Use folder">
+<img title="terms3" src="../fig/FAIRcoursebook-image1_3.png" alt="Terms of Use folder">
 
 In [Episode 4 (Data Archiving)](https://maastrichtu-library.github.io/fair-research-data-bootcamp/06-rich-metadata/index.html), we will explore that some data repositories such as [DataverseNL](dataverse.nl/) allow you to create a Data Terms of Use statement directly on the platform when you create a data project.   
 By default, you get a waiver License [CC0 “No Rights Reserved”](https://creativecommons.org/share-your-work/public-domain/cc0/). Putting a database or dataset in the public domain under CC0 is a way to remove any legal doubt about whether researchers can use the data in their projects. Although CC0 doesn’t legally require data users to cite the source, it does not affect the ethical norms for attribution in scientific and research communities. Moreover, you can change this waiver to a tailored Terms of Use you have created for your data.
 
-<img title="terms4" src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/02-3.png" alt="License is part of the Terms of Use">
+<img title="terms4" src="../fig/FAIRcoursebook-image1_4.png" alt="License is part of the Terms of Use">
 <br>
 
 > ## Exercise - Level Easy 🌶
