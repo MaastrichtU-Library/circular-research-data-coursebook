@@ -33,6 +33,10 @@ repository: <USERNAME>/<PROJECT>
 # Email address, no mailto:
 email: "p.hernandezserrano@maastrichtuniversity.nl"
 
+# Landing page for the lesson.
+show_syllabus: false
+show_setup: false
+
 # Sites.
 coc: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
 amy_site: "https://amy.carpentries.org/"
