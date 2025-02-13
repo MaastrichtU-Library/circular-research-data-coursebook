@@ -10,11 +10,10 @@ objectives:
 - "The participant will understand the importance of archiving datasets on trusted data repositories."
 - "The participant will learn the significance of the Digital Object Identifier (DOI)."
 keypoints:
-- "**Data repositories** can make a research data more discoverable by machines (e.g. Google search engine)."
-- "Always aim for a repository that fits your community (e.g. DataverseNL). Else, deposit your dataset on generic repositories (e.g. Zenodo)."
+- "**Data repositories** can make research data more discoverable by machines (e.g., Google search engine)."
+- "Always aim for a repository that fits your community (e.g., DataverseNL). Else, deposit your dataset on generic repositories (e.g., Zenodo)."
 - "If the data is about human subjects or includes demographics, you can always choose to make it private or deposit an aggregated subset."
 ---
-
 
 > ## FAIR principles used in Data Archiving  
 > **Findable**   
@@ -26,38 +25,37 @@ keypoints:
 >
 {: .checklist}
 
-
 ### 1. What is Data Archiving?
 
-> "Data Archiving" is the practice of placing a digital source in a preservation phase. i.e. the long-term storage of research data. 
+> "Data Archiving" is the practice of placing a digital source in a preservation phase, i.e., the long-term storage of research data. 
 {: .objectives}
 
 The various academic journals have different policies regarding how much of their data and methods researchers are required to store in a public archive. Similarly, the major grant-giving institutions have varying attitudes toward public archival of data. In general, publications must have attached sufficient information to allow fellow researchers to replicate and test the research.
 
 ### 2. What are Data Repositories?
 
-Datasets are archived in **Data repositories**. They are storage locations for digital objects. **Data repositories** can help make a researcher's data more discoverable by search engines (e.g. Google) and ultimately lead to potential reuse. Therefore, using storage can lead to increased citations of your work. Data repositories can also serve as backups during rare events where data are lost to the researcher and must be retrieved.
+Datasets are archived in **Data repositories**. They are storage locations for digital objects. **Data repositories** can help make a researcher's data more discoverable by search engines (e.g., Google) and ultimately lead to potential reuse. Therefore, using storage can lead to increased citations of your work. Data repositories can also serve as backups during rare events where data are lost to the researcher and must be retrieved.
 
 > ## Note
-> Data Archiving is the long-term storage of research data
-> Data repositories can help make a research data more discoverable by search engines (e.g. Googlebots) 
+> Data Archiving is the long-term storage of research data.
+> Data repositories can help make research data more discoverable by search engines (e.g., Googlebots). 
 >
 {: .callout}
 
-Examples of data repositories  
+Examples of data repositories:
 
 | Data Repository | About |
 |---|---|
-|[DataverseNL](https://dataverse.nl/dataverse) <img src="https://dataverse.nl/assets/logos/DataverseNL-logo.png" alt="dataverse" style="width:30x;height:15x;"> | DataverseNL is a community-specific repository it focuses on Dutch universities and research centers|
-|[4TU Data](https://data.4tu.nl/) <img src="https://data.4tu.nl/fileadmin/Tmpl/Images/4TU-logo.png" alt="4tu" style="width:30x;height:15x;"> | 4TU Data is a community repository which was originally created by three technical universities in the Netherlands|
-|[PANGEA](https://pangaea.de/) <img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/04-1.png" alt="pangea" style="width:30x;height:15x;"> | PANGEA is a community-specific repository that focuses on Earth & Environmental Science| 
-|[FigShare](https://figshare.com/) <img src="https://websitev3-p-eu.figstatic.com/assets-v3/2fa5d16c00fb00c8f5413b230e05e1c55e745c36/static/media/defaultLogo.30adffde.png" alt="figshare" style="width:30x;height:15x;"> | FigShare is an open generic data repository for general purposes, it can store data and other digital objects| 
+|[DataverseNL](https://dataverse.nl/dataverse) <img src="https://dataverse.nl/assets/logos/DataverseNL-logo.png" alt="dataverse" style="width:30px;height:15px;"> | DataverseNL is a community-specific repository that focuses on Dutch universities and research centers.|
+|[4TU Data](https://data.4tu.nl/) <img src="https://data.4tu.nl/fileadmin/Tmpl/Images/4TU-logo.png" alt="4tu" style="width:30px;height:15px;"> | 4TU Data is a community repository that was originally created by three technical universities in the Netherlands.|
+|[PANGEA](https://pangaea.de/) <img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/04-1.png" alt="pangea" style="width:30px;height:15px;"> | PANGEA is a community-specific repository that focuses on Earth & Environmental Science.| 
+|[FigShare](https://figshare.com/) <img src="https://websitev3-p-eu.figstatic.com/assets-v3/2fa5d16c00fb00c8f5413b230e05e1c55e745c36/static/media/defaultLogo.30adffde.png" alt="figshare" style="width:30px;height:15px;"> | FigShare is an open generic data repository for general purposes; it can store data and other digital objects.| 
 
-Just like FigShare, many data repositories are for general use. They provide a low entry barrier to making data **Findable** addressing FM-F1A (Identifier Uniqueness) and FM-F3 (Resource Identifier in Metadata). 
+Just like FigShare, many data repositories are for general use. They provide a low entry barrier to making data **Findable**, addressing FM-F1A (Identifier Uniqueness) and FM-F3 (Resource Identifier in Metadata). 
 
 <br> 
 
-> ## Recommendations for general purpose data repositories
+> ## Recommendations for general-purpose data repositories
 > [ZENODO](https://zenodo.org/) administrated by [CERN](https://home.cern/)  
 > [SURF Repository](https://repository.surfsara.nl/) administrated by [SURF](https://www.surf.nl/)  
 > [DataverseNL](https://dataverse.nl/)  administrated by [DANS](https://dans.knaw.nl/en/)
@@ -65,12 +63,12 @@ Just like FigShare, many data repositories are for general use. They provide a l
 
 <br> 
 
-Quick characteristics of general purpose repositories:  
+Quick characteristics of general-purpose repositories:  
 
 - Safe — your research is stored safely for the future in a Data Centre for as long as CERN and/or DANS exist.
 - Citeable — every upload is assigned a Digital Object Identifier (DOI) to make them citable and trackable.
 - No waiting time — Uploads are made available online as soon as you hit publish, and your DOI is registered within seconds.
-- Open or closed — Share, e.g. anonymised clinical trial data with only medical professionals via our restricted access mode.
+- Open or closed — Share, e.g., anonymized clinical trial data with only medical professionals via our restricted access mode.
 - Versioning — Easily update your dataset with our versioning feature.
 - GitHub integration — Easily preserve your GitHub repository in Zenodo.
 - Usage statistics — All uploads display standards-compliant usage statistics.
@@ -80,8 +78,7 @@ Quick characteristics of general purpose repositories:
 *Image: Harvard Medical School, RDM - Data Repositories. Accessed Jul-2022 - *datamanagement.hms.harvard.edu/share/data-repositories*
 <br> 
 
-#### [Original Hardvard Dataverse](https://dataverse.harvard.edu/dataverse/harvard)
-
+#### [Original Harvard Dataverse](https://dataverse.harvard.edu/dataverse/harvard)
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/MPQ0Tpgaxt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <br> 
@@ -99,24 +96,23 @@ Quick characteristics of general purpose repositories:
 > ## Exercise - Level Medium 🌶🌶
 >
 > 1. Go to **[dataverse.org](https://dataverse.org/)** and scroll down until you see a map. Respond to the following:  
-> 2. How many installations of Dataverse are?  
+> 2. How many installations of Dataverse are there?  
 > 3. How many Dataverse installations are in the Netherlands?  
 > 4. DataverseNL is the data repository hosted by DANS. It supports all higher education institutions in the Netherlands. How many datasets exist now in DataverseNL? (Aug 2022)   
 > {: .source}
 >
 > > ## Solution
 > >
-> > 2. There are 83 installations worldwide. This means that 83  Organizations have a copy of the original Harvard Dataverse layout and have hosted it on their own servers to support researchers.  
-> > 3. There are 3 installations in the Netherlands: DataverseNL, IISH Dataverse,  and NIOZ Dataverse. 
+> > 2. There are 83 installations worldwide. This means that 83 organizations have a copy of the original Harvard Dataverse layout and have hosted it on their own servers to support researchers.  
+> > 3. There are 3 installations in the Netherlands: DataverseNL, IISH Dataverse, and NIOZ Dataverse. 
 > > 4. There are 6,075. 
 > > {: .output}
 > {: .solution}
 {: .challenge}
 
-
 ### 3. What is a DOI, and why is it important?
 
-The DOI is a common identifier used for academic, professional, and governmental information such as articles, datasets, reports, and other supplemental information. The [International DOI Foundation (IDF)](https://www.doi.org/) is the agency that oversees DOIs. [CrossRef](https://www.crossref.org/) and [Datacite](https://datacite.org/) are two prominent not-for-profit registries that provide services to create or mint DOIs. Both have membership models where their clients are able to mint DOIs distinguished by their prefix. For example, DataCite features a [statistics page](https://stats.datacite.org/) where you can see registrations by members.
+The DOI is a common identifier used for academic, professional, and governmental information such as articles, datasets, reports, and other supplemental information. The [International DOI Foundation (IDF)](https://www.doi.org/) is the agency that oversees DOIs. [CrossRef](https://www.crossref.org/) and [DataCite](https://datacite.org/) are two prominent not-for-profit registries that provide services to create or mint DOIs. Both have membership models where their clients are able to mint DOIs distinguished by their prefix. For example, DataCite features a [statistics page](https://stats.datacite.org/) where you can see registrations by members.
 
 A DOI has three main parts:
 
@@ -124,18 +120,17 @@ A DOI has three main parts:
 - Prefix which is unique to the registrant or member
 - Suffix, a unique identifier assigned locally by the registrant to an object
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/04-2.jpeg" alt="Anatomy of a DOI" style="width:100x;height:80x;">
+<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/04-2.jpeg" alt="Anatomy of a DOI" style="width:100px;height:80px;">
 
-In the example above, the prefix is used by the Australian National Data Service (ANDS) now called the Australia Research Data Commons (ARDC) and the suffix is a unique identifier for an object at Griffith University. DataCite provides DOI [display guidance](https://support.datacite.org/docs/datacite-doi-display-guidelines
-) so that they are easy to recognize and use, for both humans and machines.
+In the example above, the prefix is used by the Australian National Data Service (ANDS), now called the Australia Research Data Commons (ARDC), and the suffix is a unique identifier for an object at Griffith University. DataCite provides DOI [display guidance](https://support.datacite.org/docs/datacite-doi-display-guidelines) so that they are easy to recognize and use, for both humans and machines.
 
 <br> 
 
 > ## Exercise - Level Hard 🌶🌶🌶
 >
-> 1. Upload a dataset in the [DEMO DataverseNL](https://demo.dataverse.nl/) repository
+> 1. Upload a dataset in the [DEMO DataverseNL](https://demo.dataverse.nl/) repository.
 >
-> 2. Download the following mock dataset: [MOCK DATA](https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/MOCK_DATA_BOOTCAMP.xlsx)  
+> 2. Download the following mock dataset: [MOCK DATA](https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/MOCK_DATA_BOOTCAMP.xlsx).  
 > 
 > 3. What is the DOI of your dataset?
 > {: .source}
@@ -146,7 +141,6 @@ In the example above, the prefix is used by the Australian National Data Service
 > > {: .output}
 > {: .solution}
 {: .challenge}
-
 
 > ## Discussion  
 > Scenario:  
@@ -169,8 +163,8 @@ You are a researcher of Migration studies, and you conducted personal interviews
 {
     "@context": "https://schema.org",
     "@type": "Course",
-    "name": "Circular Research Data Bootcamp",
-    "description": "This is the coursebook of the Circular Research Data Bootcamp. This coursebook is an Open Educational Resources following the FAIR and Open Science recommendations. A week-long summer camp training looking at real-world examples to achieve data sustainability following the FAIR principles of research data management. ",
+    "name": "FAIR Research Data Bootcamp",
+    "description": "This is the coursebook of the FAIR Research Data Bootcamp. This coursebook is an Open Educational Resource following the FAIR and Open Science recommendations. A week-long summer camp training looking at real-world examples to achieve data sustainability following the FAIR principles of research data management.",
     "version": "v1.0",
     "url": "https://doi.org/10.5281/zenodo.6974103",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
@@ -197,7 +191,7 @@ You are a researcher of Migration studies, and you conducted personal interviews
     ],
     "creator": {
         "@type": "Person",
-        "name": "concat @givenName @familyName",
+        "name": "Pedro Hernandez Serrano",
         "givenName": "Pedro",
         "familyName": "Hernandez Serrano",
         "image": "https://avatars.githubusercontent.com/u/12054964?v=4",
@@ -239,7 +233,7 @@ You are a researcher of Migration studies, and you conducted personal interviews
     },
     "citation": {
         "@type": "CreativeWork",
-        "name": "Circular Research Data Coursebook",
+        "name": "FAIR Research Data Coursebook",
         "creator": [
             {
                 "@type": "Person",
