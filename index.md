@@ -9,15 +9,15 @@ h1 {text-align: center;}
 </style>
 
 <br>
-<h1>Reaching FAIR Research Data in 6 Steps ♻️ </h1>
+<h1>Six Steps to FAIR Implementation (with examples) ♻️ </h1>
 <hr>
 
-Welcome to the FAIR Research Data Coursebook!! 🤓  
+Welcome to the FAIR Research Data Coursebook!! 🤓
 
 **Keywords**: `Research Data Management`, `Research Data Reuse`, `FAIR`, `FAIR Digital Objects`.
 
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/Bootcamp+Featured+Pic.png" alt="Circular Research Data Logo" weight=500 height=400>
+<img src="../fig/FAIRcoursebook-image0.png" alt="FAIR Research Data Logo" weight=500 height=400>
 
 ## About 📗
 
@@ -36,14 +36,14 @@ Some relevant topics the coursebook aims to address are the following:
 
 
 <div style="font-size: 24px;">
-    <h2>6 steps to FAIR</h2>
+    <h2>Six steps to FAIR</h2>
     <ol style="display: inline-block; text-align: left;">
-        <li>📜 Data Terms of Use</li>
-        <li>📋 Data Descriptions</li>
-        <li>🔒 Data Access Protocols</li>
-        <li>📦 Data Archiving</li>
-        <li>🏷️ Rich Metadata</li>
-        <li>♻️ Data Reusing</li>
+        <li>📜 Set up your own terms ➡️ Data Terms of Use</li>
+        <li>🌍 Speak the same language ➡️  Data Description</li>
+        <li>🔒 Securely share ➡️  Data Access Protocols</li>
+        <li>📦 Publish and preserve ➡️  Data Archiving</li>
+        <li>🤖 Make machines work for you ➡️  Rich Metadata</li>
+        <li>♻️ Responsibly reuse ➡️  Data Reusing</li>
     </ol>
 </div>
 
