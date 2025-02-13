@@ -12,12 +12,12 @@ h1 {text-align: center;}
 <h1>Six Steps to FAIR Implementation (with examples) ♻️ </h1>
 <hr>
 
-Welcome to the FAIR Research Data Coursebook!! 🤓
-
 **Keywords**: `Research Data Management`, `Research Data Reuse`, `FAIR`, `FAIR Digital Objects`.
 
 
 <img src="../fig/FAIRcoursebook-image0.png" alt="FAIR Research Data Logo" weight=500 height=400>
+
+> 📢 **This coursebook was last updated in January 2025.**
 
 ## About 📗
 
@@ -38,12 +38,12 @@ Some relevant topics the coursebook aims to address are the following:
 <div style="font-size: 24px;">
     <h2>Six steps to FAIR</h2>
     <ol style="display: inline-block; text-align: left;">
-        <li>📜 Set up your own terms ➡️ Data Terms of Use</li>
-        <li>🌍 Speak the same language ➡️  Data Description</li>
-        <li>🔒 Securely share ➡️  Data Access Protocols</li>
-        <li>📦 Publish and preserve ➡️  Data Archiving</li>
-        <li>🤖 Make machines work for you ➡️  Rich Metadata</li>
-        <li>♻️ Responsibly reuse ➡️  Data Reusing</li>
+        <li>📜 Set up your own terms ➡️ <a href="{{ relative_root_path }}{% link _episodes/02-terms-of-use.md %}">Data Terms of Use</a></li>
+        <li>🌍 Speak the same language ➡️ <a href="{{ relative_root_path }}{% link _episodes/03-data-descriptions.md %}">Data Descriptions</a></li>
+        <li>🔒 Securely share ➡️ <a href="{{ relative_root_path }}{% link _episodes/04-access-protocols.md %}">Data Access Protocols</a></li>
+        <li>📦 Publish and preserve ➡️ <a href="{{ relative_root_path }}{% link _episodes/05-data-archiving.md %}">Data Archiving</a></li>
+        <li>🤖 Make machines work for you ➡️ <a href="{{ relative_root_path }}{% link _episodes/06-rich-metadata.md %}">Rich Metadata</a></li>
+        <li>♻️ Responsibly reuse ➡️ <a href="{{ relative_root_path }}{% link _episodes/07-data-reusing.md %}">Data Reusing</a></li>
     </ol>
 </div>
 
@@ -65,6 +65,8 @@ Some relevant topics the coursebook aims to address are the following:
 
 
 {% include links.md %}
+
+<!-- {% include syllabus.html %} -->
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1JS8K9J9GE"></script>
