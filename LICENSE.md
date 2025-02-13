@@ -48,6 +48,9 @@ Notices:
   rights such as publicity, privacy, or moral rights may limit how you
   use the material.
 
+> This coursebook was developed using the [Library Carpentries Workshop Template](https://github.com/carpentries/workshop-template), which is part of [The Carpentries](https://carpentries.org/) open educational resources. We ([Hernández Serrano, Pedro](https://www.maastrichtuniversity.nl/nl/p.hernandezserrano) and [Vivas Romero, Maria](https://www.maastrichtuniversity.nl/m.vivasromero)) acknowledge The Carpentries' commitment to open, community-driven learning.  
+This coursebook is adapted from the [Library Carpentries Workshop Template](https://github.com/carpentries/workshop-template), which is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+{: .prereq}
 
 
 > ## Cite this Coursebook
