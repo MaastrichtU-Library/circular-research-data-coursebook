@@ -1,5 +1,5 @@
 ---
-title: "Data Access Protocols"
+title: "3. Securely share"
 teaching: 10
 exercises: 15
 questions:
@@ -32,7 +32,7 @@ keypoints:
 Imagine you enter a security room. You need to follow specific steps or possess specific keys for accessing the room. The same is with data. Moreover, if the door of the room is *open* we can say it is **Open Access**.
 
 <br>
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/05-2.png" alt="access">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Electronic_access_control_%28BSL3_Lab%29_using_personal_identification_number_%28PIN%29.jpg" alt="access" width=800>
 <br>
 
 Following the premise that "Data Access Protocols" are a common set of rules in a standard language, they exist in various ranges. For example, some messages are directed to humans, and some protocols are meant for machines.  
@@ -41,14 +41,14 @@ Following the premise that "Data Access Protocols" are a common set of rules in 
 |Access Protocol|Example|Note|
 |---|---|---|
 |Communication between machines|![](https://study-ccna.com/wp-content/images/http_process_explained.jpg)|A PC requesting information using HTTP protocol|
-|Communication between humans|<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/05-1.png" alt="CbCM Protocol" width=200 height=300>|Data owner requesting users to contact directly for data access|
+|Communication between humans|<img src="../fig/FAIRcoursebook-image3_1.png" alt="CbCM Protocol" width=300 height=300>|Data owner requesting users to contact directly for data access|
 
 Image: **Mapping EU Company Mobility & Abuse-Detection**   → [LINK TO EXAMPLE](https://eu-corporate-mobility.org/)
 
 In a strict sense, data access protocols relate to network protocol definitions. However, regarding Research Data, the human factor plays a part. Therefore, we can explicitly mention the rules and instructions for accessing data depending on the use case. Sometimes the data can't be publicly available, and there is no particular repository for it. Therefore, you request the user to contact you to get access. We could say it is a **human-friendly** access protocol.
 
 For example:   
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/05-5.png" alt="UMC Utrecht Access Protocol">
+<img src="../fig/FAIRcoursebook-image3_2.png" alt="UMC Utrecht Access Protocol" width=600>
 
 <br>
 
@@ -71,11 +71,11 @@ The University Medical Center at Utrecht (UMC Utrecht) has an open *data request
 ### 2. Is Open Access a data access protocol?
 
 Open Access is a policy framework in the strict sense but yes! We could say it's a data access protocol.
-Within the Open Science recommendations, it is endorsed to standardize open access datasets when it is possible to make them publicly available and does not violate legal or ethical considerations. More information at [Open Access](https://www.openaccess.nl/en/wat-is-open-access/open-data).
+Within the Open Science recommendations, it is endorsed to standardize open access datasets when it is possible to make them publicly available and does not violate legal or ethical considerations. More information at [Open Access](https://www.openaccess.nl/en/what-is-open-access).
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/05-3.png" href="https://www.openaccess.nl/en/wat-is-open-access/open-data" alt="access">
+<img src="https://www.openaccess.nl/themes/custom/droopler_theme/build/assets/images/logo.svg" href="https://www.openaccess.nl/en/wat-is-open-access/open-data" alt="access">
 
-Depositing datasets in public data repositories can grant them open access protocol automatically. In addition, data repositories typically work as a data archiving instrument, which we cover in [Episode 6 (Data Archiving)](https://maastrichtu-library.github.io/fair-research-data-bootcamp/05-data-archiving/index.html).  
+Depositing datasets in public data repositories can grant them open access protocol automatically. In addition, data repositories typically work as a data archiving instrument, which we cover in [Episode 6 (Data Archiving)](https://maastrichtu-library.github.io/fair-research-data-coursebook/05-data-archiving/index.html).  
 
 Moreover, Open Access data sources can be made available using FAIR protocols such as SPARQL API endpoints.  
 
@@ -84,7 +84,7 @@ An example is:
 **The European Union Public Data**   → [LINK TO EXAMPLE](https://data.europa.eu/data/sparql)  
 Which makes available all public datasets. The following endpoint (permanent link) [https://data.europa.eu/sparql](https://data.europa.eu/sparql)  
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/05-4.png" href="https://data.europa.eu/data/sparql" alt="access">
+<img src="../fig/FAIRcoursebook-image3_3.png" href="https://data.europa.eu/data/sparql" alt="sparql" width=800>
 
 > ## Exercise - Level Easy 🌶
 >
