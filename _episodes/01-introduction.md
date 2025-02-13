@@ -45,7 +45,7 @@ A **Digital Object** is a bit sequence located in a digital memory or storage th
 - A README file containing Terms of use & Access Protocols
 
 <br>
-<img src="https://authorcarpentry.github.io/CODATA-RDA-Trieste-2016/Figure1.jpg" alt="Digital Object Anatomy" width=800 height=400>
+<img src="https://storage.googleapis.com/jnl-up-j-dsj-files/journals/1/articles/1127/submission/proof/1127-10-7358-1-17-20200401.png" alt="Digital Object Anatomy" width=650 height=400>
 <br>
 
 > ## To learn more about FAIR Digital Objects

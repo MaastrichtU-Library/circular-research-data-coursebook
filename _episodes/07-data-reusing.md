@@ -1,15 +1,15 @@
 ---
-title: "Data Reusing"
+title: "6. Responsibly reuse"
 teaching: 10
 exercises: 15
 questions:
 - "1 How to cite data when reusing a data source?"
 - "2 How do we make sure data will be reused?"
 objectives:
-- "The participant will understand the importance of data citation"
-- "The participant will learn tools to test discoverability for data to be reused"
+- "The participant will understand the importance of data citation."
+- "The participant will learn tools to test discoverability for data to be reused."
 keypoints:
-- 'Digital Objects (e.g. Datasets) "live" in the web, imagine they are like fishes in the sea 🐠🐠. The way to get picked up by a "fisherman" 🎣 i.e. a search engine (e.g. Google) is by describing these Digital Objects with Rich Metadata'
+- 'Digital Objects (e.g., Datasets) "live" on the web, imagine they are like fishes in the sea 🐠🐠. The way to get picked up by a "fisherman" 🎣 i.e., a search engine (e.g., Google) is by describing these Digital Objects with Rich Metadata.'
 ---
 
 > ## FAIR principles used in Data Reusing:  
@@ -22,12 +22,11 @@ keypoints:
 >
 {: .checklist}
 
-
 ## 1. How to cite data when reusing a data source?
 
 > "Data Reusing" are activities for recycling existing research data sources.   
 {: .objectives}
-By default, we should make the research data documentation in citable and reusable formats    
+By default, we should make the research data documentation in citable and reusable formats.    
 
 The minimum citation elements recommended by [DataCite](https://datacite.org/) are:
 - Creator
@@ -44,29 +43,29 @@ For example:
 
 Original dataset at **Wasted Food: U.S. Consumers' Reported Awareness, Attitudes, and Behaviors** → [LINK TO EXAMPLE](https://figshare.com/articles/dataset/_Wasted_Food_U_S_Consumers_Reported_Awareness_Attitudes_and_Behaviors_/1445199) 
 
-Nowadays, data repositories have a friendly interface on which one can export the data citation directly from the webpage. Such as ZENODO, Dataverse or FigShare.
+Nowadays, data repositories have a friendly interface on which one can export the data citation directly from the webpage, such as ZENODO, Dataverse, or FigShare.
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/07-1.png" alt="cite">
+<img src="../fig/FAIRcoursebook-image6_1.png" alt="cite" width=800>
 
-> ## Citing datasets increases publication visibility on 25%.
-> When we cite a dataset using a standard format (e.g. recommended DataCite), then we allow data aggregators to "pick up" on the citations just like publications. Therefore, they immediately become discoverable for scientific sources
+> ## Citing datasets increases publication visibility by 25%.
+> When we cite a dataset using a standard format (e.g., recommended by DataCite), then we allow data aggregators to "pick up" on the citations just like publications. Therefore, they immediately become discoverable for scientific sources.
 > 
 {: .callout}
 
 ## 2. How do we make sure data can be reused?
 
-Remember that a dataset or a data source is a digital object. So Digital Objects "live" on the web. Imagine they are like fishes in the sea 🐠🐠. The way to get picked up by a "fisherman" 🎣 i.e. a search engine (e.g. Google), is by describing these Digital Objects with Rich Metadata [(Episode 5)](https://maastrichtu-library.github.io/circular-research-data-bootcamp/06-rich-metadata/index.html). Moreover we can check the quality of discoverability of the Digital Objects by conducting automated tests.
+Remember that a dataset or a data source is a digital object. So Digital Objects "live" on the web. Imagine they are like fishes in the sea 🐠🐠. The way to get picked up by a "fisherman" 🎣 i.e. a search engine (e.g. Google), is by describing these Digital Objects with Rich Metadata [(Episode 5)](https://maastrichtu-library.github.io/FAIR-research-data-coursebook/06-rich-metadata/index.html). Moreover we can check the quality of discoverability of the Digital Objects by conducting automated tests.
 
 There are different available applications to test the discoverability of datasets for future reuse.
 
 For example:   
 In **Google Rich Results** [search.google.com/test/rich-results](https://search.google.com/test/rich-results), you can test whether a dataset is discoverable by other machines (e.g. Google bots)→ [LINK TO EXAMPLE](https://search.google.com/test/rich-results?url=http%3A%2F%2Fdoi.org%2F10.1594%2FPANGAEA.750883)  
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/07-2.png" alt="google" style="width: 50%">
+<img src="../fig/FAIRcoursebook-image6_2.png" alt="google" style="width: 50%">
 
 After testing the URL of the data source, you will get the response from the Google bots. We aim to determine if the Google bots have found a structured dataset with the link we provided.
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/07-3.png" alt="google2" style="width: 50%">
+<img src="../fig/FAIRcoursebook-image6_3.png" alt="google2" style="width: 50%">
 
 > ## Following the FAIR principles, you ensure Rich Metadata
 > Rich metadata is necessary to be discoverable on the internet. Without testing it, your data can be virtually invisible on the web
@@ -166,8 +165,8 @@ For example:
 {
     "@context": "https://schema.org",
     "@type": "Course",
-    "name": "Circular Research Data Bootcamp",
-    "description": "This is the coursebook of the Circular Research Data Bootcamp. This coursebook is an Open Educational Resources following the FAIR and Open Science recommendations. A week-long summer camp training looking at real-world examples to achieve data sustainability following the FAIR principles of research data management. ",
+    "name": "FAIR Research Data Bootcamp",
+    "description": "This is the coursebook of the FAIR Research Data Bootcamp. This coursebook is an Open Educational Resources following the FAIR and Open Science recommendations. A week-long summer camp training looking at real-world examples to achieve data sustainability following the FAIR principles of research data management. ",
     "version": "v1.0",
     "url": "https://doi.org/10.5281/zenodo.6974103",
     "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
@@ -236,7 +235,7 @@ For example:
     },
     "citation": {
         "@type": "CreativeWork",
-        "name": "Circular Research Data Coursebook",
+        "name": "FAIR Research Data Coursebook",
         "creator": [
             {
                 "@type": "Person",
