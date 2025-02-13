@@ -1,5 +1,5 @@
 ---
-title: "Make machines work for you"
+title: "5. Make machines work for you"
 teaching: 10
 exercises: 15
 questions:
