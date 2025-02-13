@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "0. Introduction"
 teaching: 10
 exercises: 5
 questions:
@@ -20,7 +20,7 @@ keypoints:
 > FAIR means human and machine-friendly data sources which aim for transparency in science and future reuse.  
 {: .objectives}
 
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/00-2.png" alt="FAIR and Open Science" style="max-width: 120%; height: auto;">
+<img src="../fig/FAIRcoursebook-image0_1.png" alt="FAIR and Open Science" style="max-width: 80%; height: auto;">
 
 > ## What does it mean to be machine-readable vs human-readable?  
 > **Human Readable**: “Data in a format that can be conveniently read by a human. Some human-readable formats, such as PDF, are not machine-readable as they are not structured data, i.e., the representation of the data on disk does not represent the actual relationships present in the data.”  
@@ -28,7 +28,7 @@ keypoints:
 {: .prereq}
 
 <br>
-<img src="https://maastrichtuniversity-ids-open.s3.eu-central-1.amazonaws.com/images/fair2.png" alt="Machine Friendly DO">
+<img src="../fig/FAIRcoursebook-image0_2.png" alt="Machine Friendly DO">
 <br>
 
 > ## Machine friendly = Machine-readable + Machine-actionable + Machine-interoperable
@@ -45,7 +45,7 @@ A **Digital Object** is a bit sequence located in a digital memory or storage th
 - A README file containing Terms of use & Access Protocols
 
 <br>
-<img src="https://datascience.codata.org/articles/10.5334/dsj-2020-015/dsj-19-1127-g1.png/" alt="Digital Object Anatomy" width=500 height=400>
+<img src="https://authorcarpentry.github.io/CODATA-RDA-Trieste-2016/Figure1.jpg" alt="Digital Object Anatomy" width=800 height=400>
 <br>
 
 > ## To learn more about FAIR Digital Objects
@@ -80,7 +80,7 @@ In [Episode 6 (Data Archiving)](https://maastrichtu-library.github.io/fair-resea
 > 
 > > ## Solution
 > > Authors will often link to platforms such as GitHub where they have shared their software, and/or they will link to their website hosting the data used in the paper. The danger is that platforms like GitHub and personal websites are not permanent. Instead, authors can use repositories to deposit and preserve their data and software while minting a DOI. Links to software sharing platforms or personal websites might move, but DOIs will always resolve to information about the software and/or data. See DataCite's [Best Practices for a Tombstone Page](https://support.datacite.org/docs/tombstone-pages).
-{: .solution}
+> {: .solution}
 {: .challenge}
 
 #### DOIs are everywhere, examples:
