@@ -15,7 +15,7 @@ h1 {text-align: center;}
 **Keywords**: `Research Data Management`, `Research Data Reuse`, `FAIR`, `FAIR Digital Objects`.
 
 
-<img src="../fig/FAIRcoursebook-image0.png" alt="FAIR Research Data Logo" weight=500 height=400>
+<img src="../fig/FAIRcoursebook-image0.png" alt="FAIR Research Data Logo" weight=600>
 
 > 📢 **This coursebook was last updated in January 2025.**
 
